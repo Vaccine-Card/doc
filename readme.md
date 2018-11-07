@@ -1,4 +1,4 @@
-# Vacine Card ( Cartão de vacina )
+# Vaccine Card ( Cartão de vacina )
 	Registrar individualmente dados de vacinação de todos os residentes em um determinado país
 
 ### Links
