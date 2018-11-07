@@ -1,4 +1,4 @@
-# Módulos do Vaccine card
+# Módulos do Vaccine Card
 Idealizei para uma fase inicial três módulos.
 
 ## Primeiro módulo ( Guest )
